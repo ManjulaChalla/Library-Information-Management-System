@@ -3,7 +3,8 @@
 Library Information Management System
 # Contributors
 Manjula Challa     - N685Q882
-Nikhil Kumar Pathi -
+Nikhil Kumar Pathi - G274P387
+Swathi Boyapati    -
 # Description
 I Narayana Vunnam created a database LibraryManagement. Created required tables and inserted the data
 Vishnu sirivella has worked upon html and css
