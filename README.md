@@ -6,7 +6,7 @@ Library Information Management System
 |-----------------------|----------|
 | Manjula Challa        | N685Q882 |
 | Nikhil Kumar Pathi    | G274P387 |
-| Swathi Boyapati       |          |
+| Swathi Boyapati       | S595K546 |
 
 # Description
 An efficient and well-organized way to manage library resources and activities is through the use of software called a Library Information Management System (LIMS). Simplifying the many duties involved in library management, such as cataloging, circulation, patron management, and reporting, is the main objective of a LIMS.
