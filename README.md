@@ -30,7 +30,7 @@ An efficient and well-organized way to manage library resources and activities i
 
 # Youtube link
 
-# github link
+# Github link
 https://github.com/ManjulaChalla/Library-Information-Management-System.git
 # commit Id 
 694db8ad44df1887a71944e48a3f0988c041e413
