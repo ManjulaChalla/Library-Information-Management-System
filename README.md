@@ -1,16 +1,14 @@
 # CS655 Project - Library Information Management System
 # Title
 Library Information Management System
-# Contributors
+# Contributors - Team 15
 Manjula Challa     - N685Q882
 Nikhil Kumar Pathi - G274P387
 Swathi Boyapati    -
 # Description
-I Narayana Vunnam created a database LibraryManagement. Created required tables and inserted the data
-Vishnu sirivella has worked upon html and css
-Teja Kiran Valeti has created controllers and models in c#
-Daveed Raju Dinesh Yalavarthi has worked upon crud operations and database connections
-# Group name 47
+An efficient and well-organized way to manage library resources and activities is through the use of software called a Library Information Management System (LIMS). Simplifying the many duties involved in library management, such as cataloging, circulation, patron management, and reporting, is the main objective of a LIMS.
+
+# Group Number 15
 # Github Ids
 Narayana Vunnam - Narayana9290
 Vishnu Sirivella - Vishnu299
