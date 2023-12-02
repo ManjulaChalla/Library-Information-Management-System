@@ -2,7 +2,7 @@
 # Title
 Library Information Management System
 # Contributors - Team 15
-Manjula Challa         - N685Q882  
+Manjula Challa          - N685Q882  
 Nikhil Kumar Pathi   - G274P387  
 Swathi Boyapati    -
 # Description
