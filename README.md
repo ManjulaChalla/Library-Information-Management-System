@@ -14,6 +14,6 @@ An efficient and well-organized way to manage library resources and activities i
 # Yotube link
 https://youtu.be/7jiMwLZA3-I
 # github link
-https://github.com/Narayana9290/CS665.git
+https://github.com/ManjulaChalla/Library-Information-Management-System.git
 # commit Id 
 694db8ad44df1887a71944e48a3f0988c041e413
