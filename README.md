@@ -1,11 +1,9 @@
-# CS655 Project
+# CS655 Project - Library Information Management System
 # Title
-Library Management System
+Library Information Management System
 # Contributors
-Narayana Vunnam - Y924Z338
-Vishnu Sirivella - D564N363
-Teja Kiran Valeti - M864A728
-Daveed Raju Dinesh Yalavarthi - R436W592
+Manjula Challa     - N685Q882
+Nikhil Kumar Pathi -
 # Description
 I Narayana Vunnam created a database LibraryManagement. Created required tables and inserted the data
 Vishnu sirivella has worked upon html and css
