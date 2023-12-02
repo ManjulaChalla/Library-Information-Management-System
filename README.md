@@ -10,10 +10,7 @@ An efficient and well-organized way to manage library resources and activities i
 
 # Group Number 15
 # Github Ids
-Narayana Vunnam - Narayana9290
-Vishnu Sirivella - Vishnu299
-Teja Kiran Valeti - tejavaleti
-Daveed Raju Dinesh Yalavarthi - dineshyalavarthi
+
 # Yotube link
 https://youtu.be/7jiMwLZA3-I
 # github link
