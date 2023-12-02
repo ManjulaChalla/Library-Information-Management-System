@@ -12,7 +12,7 @@ An efficient and well-organized way to manage library resources and activities i
 # Github Ids
 
 # Yotube link
-https://youtu.be/7jiMwLZA3-I
+
 # github link
 https://github.com/ManjulaChalla/Library-Information-Management-System.git
 # commit Id 
