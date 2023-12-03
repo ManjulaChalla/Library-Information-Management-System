@@ -25,7 +25,6 @@ An efficient and well-organized way to manage library resources and activities i
 - Add and Update Books
 - Add and Remove Members
 - Issue Books
-# Group Number 15
 # Github Ids
 
 # Youtube link
@@ -33,4 +32,4 @@ An efficient and well-organized way to manage library resources and activities i
 # Github link
 https://github.com/ManjulaChalla/Library-Information-Management-System.git
 # commit Id 
-694db8ad44df1887a71944e48a3f0988c041e413
+
