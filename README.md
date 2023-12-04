@@ -1,7 +1,7 @@
 # CS655 Project - Library Information Management System
 # Title
 Library Information Management System
-# Contributors - Team 15
+# Contributors - Group 15
 | Name                  |   ID     |
 |-----------------------|----------|
 | Manjula Challa        | N685Q882 |
