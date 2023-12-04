@@ -21,7 +21,7 @@ An efficient and well-organized way to manage library resources and activities i
 - Admin login
 - Search Books
 - Add and Update Books
-- Add and Remove Members
+- Issue Books
 # Github IDs
 | Name                  | Github ID          |
 |-----------------------|--------------------|
