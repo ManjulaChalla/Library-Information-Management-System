@@ -17,7 +17,6 @@ An efficient and well-organized way to manage library resources and activities i
 - Librarian can track the books issued by a particular student  
 - Librarian can add/remove any member(student)  
 - Librarian can add/delete books  
-- Librarian can update the availability status of the books
 # Modules
 - Admin login
 - Search Books
