@@ -29,7 +29,7 @@ Maintaining records for students, books, accounts, and employee management throu
 | Nikhil Kumar Pathi    | nikhilp1008        |
 | Swathi Boyapati       | Swathiboyapati1999 |
 
-# Youtube link
+# Project Demo - Youtube Link
 https://www.youtube.com/watch?v=1pUBC7k-nj8
 # Github link
 https://github.com/ManjulaChalla/Library-Information-Management-System.git
