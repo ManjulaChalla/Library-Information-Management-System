@@ -9,7 +9,7 @@ Library Information Management System
 | Swathi Boyapati       | S595K546 |
 
 # Description
-An efficient and well-organized way to manage library resources and activities is through the use of software called a Library Information Management System (LIMS). Simplifying the many duties involved in library management, such as cataloging, circulation, patron management, and reporting, is the main objective of a LIMS.
+Maintaining records for students, books, accounts, and employee management through a manual process is challenging. Students also encounter difficulties in the library, such as locating specific books, checking book availability and searching for books using ISBN numbers. In order to overcome these challenges associated with manual systems, a Library Management System has been created. An efficient and well-organized way to manage library resources and activities is through the use of software called a Library Information Management System (LIMS). Simplifying the many duties involved in library management, such as cataloging, circulation, patron management, and reporting, is the main objective of a LIMS.
 # Core Features
 - Searching of books  
 - Issuing and returning books  
