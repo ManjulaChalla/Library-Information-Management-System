@@ -25,11 +25,11 @@ An efficient and well-organized way to manage library resources and activities i
 - Add and Remove Members
 - Issue Books
 # Github IDs
-| Name                  | Github ID    |
-|-----------------------|--------------|
-| Manjula Challa        | ManjulaChalla|
-| Nikhil Kumar Pathi    | nikhilp1008 |
-| Swathi Boyapati       | S595K546 |
+| Name                  | Github ID          |
+|-----------------------|--------------------|
+| Manjula Challa        | ManjulaChalla      |
+| Nikhil Kumar Pathi    | nikhilp1008        |
+| Swathi Boyapati       | Swathiboyapati1999 |
 
 # Youtube link
 https://www.youtube.com/watch?v=1pUBC7k-nj8
