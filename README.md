@@ -13,8 +13,7 @@ An efficient and well-organized way to manage library resources and activities i
 # Core Features
 - Searching of books  
 - Issuing and returning books  
-- Check fines(if any)  
-- Librarian can read information about any member  
+  - Librarian can read information about any member  
 - Librarian can track the books issued by a particular student  
 - Librarian can add/remove any member(student)  
 - Librarian can add/delete books  
@@ -36,5 +35,8 @@ An efficient and well-organized way to manage library resources and activities i
 
 # Github link
 https://github.com/ManjulaChalla/Library-Information-Management-System.git
-# commit Id 
+# Technical Dependencies:-
+Database         :- Mysql  
+Operating System :- Windows/Mac/Linux  
+Browser to run the webpage:- Google Chrome / Mozilla Firefox  
 
