@@ -28,7 +28,7 @@ An efficient and well-organized way to manage library resources and activities i
 | Name                  | Github ID    |
 |-----------------------|--------------|
 | Manjula Challa        | ManjulaChalla|
-| Nikhil Kumar Pathi    | G274P387 |
+| Nikhil Kumar Pathi    | nikhilp1008 |
 | Swathi Boyapati       | S595K546 |
 
 # Youtube link
