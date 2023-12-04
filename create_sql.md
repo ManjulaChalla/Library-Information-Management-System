@@ -1,4 +1,4 @@
--- Table for Book Borrower
+-- Table for Book Borrower  
 CREATE TABLE BookBorrower (
     CardNo INT PRIMARY KEY,
     BookName VARCHAR(255),
@@ -7,7 +7,7 @@ CREATE TABLE BookBorrower (
     BookIssued DATE
 );
 
--- Table for Books
+-- Table for Books  
 CREATE TABLE Books (
     BookId INT PRIMARY KEY,
     ISBN VARCHAR(13),
@@ -17,7 +17,7 @@ CREATE TABLE Books (
     CopiesAvailable INT
 );
 
--- Table for Publisher
+-- Table for Publisher  
 CREATE TABLE Publisher (
     PublisherId INT PRIMARY KEY,
     PublisherName VARCHAR(255),
