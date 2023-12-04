@@ -35,7 +35,7 @@ An efficient and well-organized way to manage library resources and activities i
 
 # Github link
 https://github.com/ManjulaChalla/Library-Information-Management-System.git
-# Technical Dependencies:-
+# Technical Dependencies
 Database         : Mysql  
 Operating System : Windows/Mac/Linux  
 Browser to run the webpage: Google Chrome / Mozilla Firefox  
