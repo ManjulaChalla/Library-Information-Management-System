@@ -32,7 +32,7 @@ An efficient and well-organized way to manage library resources and activities i
 | Swathi Boyapati       | S595K546 |
 
 # Youtube link
-
+https://www.youtube.com/watch?v=1pUBC7k-nj8
 # Github link
 https://github.com/ManjulaChalla/Library-Information-Management-System.git
 # Technical Dependencies
