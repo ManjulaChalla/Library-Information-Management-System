@@ -38,3 +38,8 @@ Database         : Mysql
 Operating System : Windows/Mac/Linux  
 Browser to run the webpage: Google Chrome / Mozilla Firefox  
 
+# Screenshots
+
+<img width="671" alt="image" src="https://github.com/ManjulaChalla/Library-Information-Management-System/assets/100553269/60aa1682-4490-41a6-8d99-7dfadf4f3c8c">
+
+
